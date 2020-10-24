@@ -1,0 +1,10 @@
+from telethon import TelegramClient, events
+
+client = TelegramClient(None, apiid, apihash).start(bot_token=token)
+
+@client.on(events.NewMessage)
+async def handler(event):
+    await event.reply('test')
+
+with client:
+    client.run_until_disconnected()
