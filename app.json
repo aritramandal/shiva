@@ -1,5 +1,5 @@
 {
-  "name": "Dexter_userbot",
+  "name": "Dextro_userbot",
   "description": "Userbot created by a SNAPDRAGON and custom fork by https://t.me/The_Exorcist_Blade contact @Dextro_support for support",
   "logo": "https://telegra.ph/file/174268e8434a45c80b905.jpg",
   "keywords": [
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/suhaash02/Dexter_userbot/",
+  "repository": "https://github.com/suhaash02/Dextro_userbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "stack": "container",
