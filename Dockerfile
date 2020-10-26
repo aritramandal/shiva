@@ -1,7 +1,7 @@
-FROM suhaash02/Dextro_userbot:latest
+FROM suhaash02/dextro_userbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/suhaash02/Dextro_userbot.git /root/userbot
+RUN git clone https://github.com/suhaash02/dextro_userbot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
