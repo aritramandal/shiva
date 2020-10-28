@@ -1,5 +1,5 @@
-# Dextro_userbot
-###ERRORS FIXED BY @Alpha_is_here THANKS TO HIM KEEP CREDITS BECAUSE IT,S HURTS
+# Dextro_userbot #God of TELEGRAM
+#ERRORS FIXED BY @Alpha_is_here THANKS TO HIM KEEP CREDITS BECAUSE IT,S HURTS
 
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
@@ -27,7 +27,7 @@ from heroku_config import Var
 
 class Development(Var):
   APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+  API_HASH = "eb06d4abfb49dc3eeb1aeb98aq0f581e"
 ```
 
 ### UniBorg Configuration
