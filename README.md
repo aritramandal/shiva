@@ -11,7 +11,8 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![Get string session](https://repl.it/badge/github/suhaash02/Dextro_userbot)](https://dextrouserbot.theavengers.repl.run/)
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/suhaash02/Dextro_userbot/tree/main"> <img src="https://telegra.ph/file/885e585979bf53662fb23.png." alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/suhaash02/Dextro_userbot/tree/main"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
+
 
 ### Join [here](https://t.me/Dextro_support) for updates and tuts and [here](https://t.me/Dextro_support) for discussion and bugs
 
