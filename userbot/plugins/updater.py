@@ -19,7 +19,7 @@ requirements_path = path.join(
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
 GIT_REPO_NAME = "eliza"
-UPSTREAM_REPO_URL = "https://github.com/The-Avengers-leader/ELIZA.git"
+UPSTREAM_REPO_URL = "https://github.com/suhaash02/Dextro_userbot.git"
 
 
 async def gen_chlog(repo, diff):
@@ -47,7 +47,7 @@ async def updateme_requirements():
 @borg.on(admin_cmd(pattern="update ?(.*)"))
 async def upstream(ups):
     "For .update command, check if the bot is up to date, update if specified"
-    await ups.edit("`Searching for new updates, please we its ser...`")
+    await ups.edit("`Searching for new updates, please wait for a second...`")
     conf = ups.pattern_match.group(1)
     off_repo = UPSTREAM_REPO_URL
     force_updateme = False
@@ -132,11 +132,11 @@ async def upstream(ups):
 
     if force_updateme:
         await ups.edit(
-            "`Force-Syncing to latest stable userbot code, please wait ser😅😅...`"
+            "`Forcely looking for userbot code, please wait ...`"
         )
     else:
         await ups.edit(
-            "`Updating your (ELIZA) please weit for 5 mins then type .alive or .help or .king or .alive or  to see if I am working or not...thanks for using me...❤`"
+            "`Updating your (BOT) please wait for 2 mins then type .alive or .help or .ping or .alive or  to see if I am working or not...thanks for using me...`"
         )
     # We're in a Heroku Dyno, handle it's memez.
     if Var.HEROKU_API_KEY is not None:
@@ -180,7 +180,7 @@ async def upstream(ups):
             return
         await ups.edit(
             "`Successfully Updated! Sir\n"
-            "Restarting, please wait...5 mins...then type .ping to check if I am working..thanks for using me❤`"
+            "Restarting, please wait...2 mins...then type .ping to check if I am working..thanks for using me..`"
         )
     else:
         # Classic Updater, pretty straightforward.
