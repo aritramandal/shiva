@@ -1,5 +1,5 @@
 # Dextro_userbot
-#God of Telegram
+
 #ERRORS FIXED BY @Alpha_is_here
 
 ### The Easy Way to deploy the bot
