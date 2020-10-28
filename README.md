@@ -1,5 +1,6 @@
-# Dextro_userbot #God of TELEGRAM
-#ERRORS FIXED BY @Alpha_is_here THANKS TO HIM KEEP CREDITS BECAUSE IT,S HURTS
+# Dextro_userbot
+#God of Telegram
+#ERRORS FIXED BY @Alpha_is_here
 
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
