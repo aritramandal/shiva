@@ -3,7 +3,7 @@
 ### The Easy Way to deploy the bot
 Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from [Bot Father](https://t.me/botfather) and then Generate stringsession by clicking on run.on.repl.it button below and then click on deploy to heroku . Before clicking on deploy to heroku just click on fork and star just below
 
-[![Get string session](https://repl.it/badge/github/suhaash02/Dextro_userbot)](https://generatestringsession.flora.repl.run/)
+[![Get string session](https://repl.it/badge/github/suhaash02/Dextro_userbot)](https://dextrouserbot.theavengers.repl.run/)
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/suhaash02/Dextro_userbot/tree/main"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
 
