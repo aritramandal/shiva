@@ -33,7 +33,6 @@ def get_all_echos():
     finally:
         SESSION.close()
 
-
 def addecho(user_id, chat_id):
     adder = ECHOSQL(str(user_id), str(chat_id))
     SESSION.add(adder)
