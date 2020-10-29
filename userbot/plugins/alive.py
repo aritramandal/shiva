@@ -19,7 +19,7 @@ dex_caption += "support group       :   [ᴊᴏɪɴ](https://t.me/Dextro_support
 
 dex_caption += "repo                :   [Dextro_userbot](https:github.com/suhaash02/Dextro_userbot)\n"
 
-dex_caption += f"My Peru Master     : [{DEFAULTUSER}](tg://user?id={hmm})\n"
+dex_caption += f"My Peru Master     : {DEFAULTUSER}\n"
 #@command(outgoing=True, pattern="^.alive$")
 @borg.on(admin_cmd(pattern=r"alive"))
 async def amireallyalive(alive):
